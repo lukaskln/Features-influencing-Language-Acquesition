@@ -1,11 +1,3 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -46,16 +38,15 @@ we will propose a model, validate it and come up with an improved, robust model.
 
 ## The Code 
 
-The code is fully in R and structured into two scripts: The exploratory part and the modelling part. For data rights reasons is the respective dataset not included in this repository. You can find all visualizations done in the code in the graphics folder.
+The code is fully in R and structured into thre scripts: descriptive analysis, estimation & evaluation and robust estimation. For data rights reasons is the respective dataset not included in this repository. You can find all visualizations done in the code in the graphics folder.
 
 ## Contact
 
 Lukas Klein - [LinkedIn](https://www.linkedin.com/in/lukasklein1/) - lukas.klein@etu.unige.ch
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/lukaskln/Features-influencing-Language-Acquesition/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lukasklein1/
-[product-screenshot]: images/screenshot.png
