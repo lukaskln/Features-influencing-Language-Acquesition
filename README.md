@@ -38,7 +38,7 @@ we will propose a model, validate it and come up with an improved, robust model.
 
 ## The Code 
 
-The code is fully in R and structured into thre scripts: descriptive analysis, estimation & evaluation and robust estimation. For data rights reasons is the respective dataset not included in this repository. You can find all visualizations done in the code in the graphics folder.
+The code is fully in R and structured into three parts: descriptive analysis, estimation & evaluation and robust estimation. For data rights reasons is the respective dataset not included in this repository. You can find all visualizations done in the code in the graphics folder.
 
 ## Contact
 
