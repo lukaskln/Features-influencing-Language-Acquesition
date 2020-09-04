@@ -15,7 +15,7 @@
   <p align="center">
     Area of Generalized Linear and Additive Models.
     <br />
-    <a href="https://github.com/lukaskln/Features-influencing-Language-Acquesition"><strong>Explore the Project »</strong></a>
+    <a href="https://github.com/lukaskln/Features-influencing-Language-Acquesition/tree/master/Code"><strong>Explore the Project »</strong></a>
     <br />
     <br />
     <a href="https://github.com/lukaskln/Features-influencing-Language-Acquesition/issues">Report Bug</a>
